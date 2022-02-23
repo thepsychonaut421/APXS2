@@ -1,0 +1,12 @@
+# macOS
+
+.DS_Store
+
+# apxs2
+
+httpd.conf
+access.log
+error.log
+certificate.crt
+ca_bundle.crt
+private.key

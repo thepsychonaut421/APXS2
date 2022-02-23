@@ -1,0 +1,5 @@
+COMPANY_NAME = ASPX2
+PACKAGE_NAME = apxs2-vhost
+PACKAGE_DESC = Apache HTTPD Server VirtualHost Template
+SERVER_NAME = www.example.com
+SERVER_ADMIN = you@example.com
